@@ -1,0 +1,10 @@
+C:\Users\damian\source\repos\la viborita\la viborita\bin\Debug\la viborita.exe.config
+C:\Users\damian\source\repos\la viborita\la viborita\bin\Debug\la viborita.exe
+C:\Users\damian\source\repos\la viborita\la viborita\bin\Debug\la viborita.pdb
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la viborita.csprojAssemblyReference.cache
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la_viborita.Form1.resources
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la_viborita.Properties.Resources.resources
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la viborita.csproj.GenerateResource.cache
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la viborita.csproj.CoreCompileInputs.cache
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la viborita.exe
+C:\Users\damian\source\repos\la viborita\la viborita\obj\Debug\la viborita.pdb
